@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="MD_Black">#000</color>
+    <color name="white">#ffffff</color>
+
+    <color name="MD_Orange">#ff9800</color>
+    <color name="MD_Orange_300">#ffb74d</color>
+    <color name="MD_Purple_700">#7b1fa2</color>
+
+    <!-- Red -->
+    <color name="MD_Red">#f44336</color>
+    <color name="MD_Red_300">#e57373</color>
+    <color name="MD_Red_A700">#d50000</color>
+
+    <!-- Blue -->
+    <color name="MD_LightBlue">#03a9f4</color>
+    <color name="MD_LightBlue_300">#4fc3f7</color>
+    <color name="MD_LightBlue_700">#0288d1</color>
+    <color name="MD_LightBlue_800">#0277bd</color>
+    <color name="MD_LightBlue_900">#01579b</color>
+
+    <!-- Grey -->
+    <color name="MD_Grey_300">#e0e0e0</color>
+    <color name="MD_Grey_700">#616161</color>
+    <color name="MD_Grey_800">#424242</color>
+
+    <!-- Yellow -->
+    <color name="MD_Amber">#ffc107</color>
+    <color name="MD_Amber_300">#ffd54f</color>
+    <color name="MD_Yellow">#ffeb3b</color>
+    <color name="MD_Yellow_700">#fbc02d</color>
+
+    <!-- Green -->
+    <color name="MD_Green">#4caf50</color>
+    <color name="MD_LightGreen">#8bc34a</color>
+    <color name="MD_LightGreen_300">#aed581</color>
+    <color name="MD_LightGreen_700">#689f38</color>
+
+
+</resources>

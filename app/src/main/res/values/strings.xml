@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Dashboard</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="librairies" translatable="false">Librairies non autorisees :</string>
+    <string name="binaires" translatable="false">Binaires non autorises :</string>
+    <string name="applications" translatable="false">Applications non autorisees :</string>
+    <string name="notification" translatable="false">Notification</string>
+    <string name="notification_title" translatable="false">Uhuru</string>
+    <string name="notification_desc" translatable="false">evenement</string>
+    <string name="title_activity_details">Dashboard</string>
+    <string name="title_activity_dashboard">Dashboard</string>
+    <string name="current_version">Current version:</string>
+    <string name="status">Status</string>
+    <string name="uptodate">Up to date</string>
+    <string name="security_events">Security Events:</string>
+    <string name="events_status">Events status: </string>
+    <string name="last_event">Last Event:</string>
+    <string name="security">Security</string>
+    <string name="system">System</string>
+    <string name="stats">Stats</string>
+    <string name="applications_tab" translatable="false">Applications</string>
+
+    <string name="unknown_app">Forbiden application</string>
+    <string name="unknown_lib">Unknown library</string>
+    <string name="unknown_bin">Unknown program</string>
+    <string name="blocked_msg">\u0020 blocked</string>
+    <string name="bin_blocked_msg">Forbidden execution of\u0020</string>
+    <string name="lib_blocked_msg">Forbidden loading of\u0020</string>
+    <string name="app_blocked_msg">Forbidden installation of\u0020</string>
+    <string name="stat_app" translatable="false">Applications</string>
+    <string name="stat_lib">Libraries</string>
+    <string name="stat_bin">Programs</string>
+    <string name="total_events">total events</string>
+
+    <string name="last_events">Last 7 minutes events:</string>
+    <string name="grid_title">Grid</string>
+
+    <string name="hello_world" translatable="false">Hello world!</string>
+    <string name="pdf_safe">\u0020is considered as safe by UHURU.</string>
+    <string name="pdf_suspicious">\u0020 is considered as suspicious by UHURU.</string>
+    <string name="pdf_malicious">\u0200 is considered as malicious by UHURU.</string>
+    <string name="title_activity_test" translatable="false">test</string>
+    <string name="file">File\u0020</string>
+    <string name="pdf_file">PDF files</string>
+    <string name="safe">safe</string>
+    <string name="susp">suspicious</string>
+    <string name="bad">malicious</string>
+    <string name="title_activity_pdfreport" translatable="false">PDFreport</string>
+</resources>

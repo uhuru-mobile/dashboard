@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dashboard</string>
+    <string name="security">Sécurité</string>
+    <string name="security_events">Evénements de sécurité</string>
+    <string name="status">Statut</string>
+    <string name="system">Système</string>
+    <string name="unknown_app">App non autorisée</string>
+    <string name="unknown_bin">Binaire inconnu</string>
+    <string name="unknown_lib">Librairie inconnue</string>
+    <string name="uptodate">A jour</string>
+    <string name="title_activity_details">Tableau de bord</string>
+    <string name="title_activity_dashboard">Tableau de bord</string>
+    <string name="last_event">Dernier événement :</string>
+    <string name="events_status">Criticité des événements :</string>
+    <string name="current_version">Version actuelle :</string>
+    <string name="action_settings">Paramètres</string>
+    <string name="lib_blocked_msg">Chargement de\u0020</string>
+    <string name="blocked_msg">\u0020bloqué(e) par UHURU</string>
+    <string name="bin_blocked_msg">Exécution de\u0020</string>
+    <string name="app_blocked_msg">Installation de\u0020</string>
+    <string name="stat_bin">Programmes</string>
+    <string name="stat_lib">Librairies</string>
+    <string name="total_events">événements</string>
+    <string name="stats">Statistiques</string>
+    <string name="last_events">Evénements des 7 dernières minutes :</string>
+    <string name="grid_title">Grille</string>
+    <string name="file">Le fichier\u0020</string>
+    <string name="pdf_malicious">\u0020considéré comme malicieux par UHURU.</string>
+    <string name="pdf_safe">\u0020considéré comme sain par UHURU.</string>
+    <string name="pdf_suspicious">\u0020considéré comme suspect par UHURU.</string>
+    <string name="pdf_file">Fichiers PDF</string>
+    <string name="safe">sain(s)</string>
+    <string name="susp">suspect(s)</string>
+    <string name="bad">malveillant(s)</string>
+</resources>
